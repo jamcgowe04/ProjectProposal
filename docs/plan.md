@@ -12,7 +12,7 @@ Risk: Images for inventory of items may not meet quality standards
 
  #### Accept
 
- Risk: Minor layout inconsistiencies may occur
+ Risk: Minor layout inconsistencies may occur
 
  Strategy: Small visuals will be distinct across different browsers and devices. These issues will be addressed only if they affect users significantly.
 
@@ -38,7 +38,7 @@ Risk: Images for inventory of items may not meet quality standards
  1. Planning
  * Project purpose and scope
 
- * Identify required pages (Home page, Mission Description, Featured items) 
+ * Identify required pages (Home page with Mission Description, Featured items page) 
 
  * Document exclusions (no backend, no checkout, no accounts)
 
@@ -82,3 +82,4 @@ Risk: Images for inventory of items may not meet quality standards
  * Review guidelines and rubric
 
  * Proofread before submission
+
